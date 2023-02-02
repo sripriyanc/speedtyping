@@ -1,4 +1,4 @@
-const paragraphs = [
+const Words = [
    "The Bureau of Labor Statistics defines long-term unemployment as lasting 26 weeks or more, and while many workers start looking for a job immediately after losing the one they have and find immediate success, others find themselves feeling the emotional stress of long-term unemployment. ",
    ". If the emotional effects of long-term unemployment and job loss are taking a toll, there are tools you can use to break the cycle and avoid unemployment depression.",
    "Breaking the cycle has a lot to do with mentality and requires strategic planning and self-encouragement. Yes, it's important to continue searching for employment, but it's just as important to build your self-worth. If you're unemployed and feeling especially down, check out these five methods to build yourself back up.",
