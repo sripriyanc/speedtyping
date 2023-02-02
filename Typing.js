@@ -12,9 +12,9 @@ timeLeft = maxTime,
 charIndex = mistakes = isTyping = 0;
 
 function loadParagraph() {
-    const ranIndex = Math.floor(Math.random() * paragraphs.length);
+    const ranIndex = Math.floor(Math.random() *paragaphs.length);
     typingText.innerHTML = "";
-    paragraphs[ranIndex].split("").forEach(char => {
+    paragaphs[ranIndex].split("").forEach(char => {
         let span = `<span>${char}</span>`
         typingText.innerHTML += span;
     });
